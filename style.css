@@ -20,7 +20,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Segoe UI", Inter, Roboto, Arial, sans-serif;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
   background:
     radial-gradient(circle at 80% 0%, rgba(255, 106, 0, 0.18), transparent 45%),
     radial-gradient(circle at 10% 20%, rgba(255, 106, 0, 0.1), transparent 35%),

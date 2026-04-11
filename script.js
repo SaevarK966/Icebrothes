@@ -37,7 +37,14 @@ if ('IntersectionObserver' in window) {
 }
 
 const sections = document.querySelectorAll('main section[id]');
-const navMap = new Map([...navAnchors].map((a) => [a.getAttribute('href')?.slice(1), a]));
+const navMap = new Map(
+  [...navAnchors]
+    .map((anchor) => {
+      const href = anchor.getAttribute('href');
+      return href ? [href.slice(1), anchor] : null;
+    })
+    .filter(Boolean)
+);
 
 const updateActiveLink = () => {
   const y = window.scrollY + 120;
