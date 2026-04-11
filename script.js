@@ -1,3 +1,6 @@
+const INTERSECTION_THRESHOLD = 0.12;
+const ACTIVE_LINK_SCROLL_OFFSET = 120;
+
 const menuToggle = document.querySelector('.menu-toggle');
 const navLinks = document.querySelector('.nav-links');
 const navAnchors = document.querySelectorAll('.nav-links a');
@@ -28,7 +31,7 @@ if ('IntersectionObserver' in window) {
         }
       });
     },
-    { threshold: 0.12 }
+    { threshold: INTERSECTION_THRESHOLD }
   );
 
   reveals.forEach((el) => observer.observe(el));
@@ -47,7 +50,7 @@ const navMap = new Map(
 );
 
 const updateActiveLink = () => {
-  const y = window.scrollY + 120;
+  const y = window.scrollY + ACTIVE_LINK_SCROLL_OFFSET;
   let current = 'home';
 
   sections.forEach((section) => {
