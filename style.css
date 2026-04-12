@@ -535,11 +535,22 @@ h1 {
   margin-top: 0.8rem;
 }
 
+.kristjan-air-more {
+  color: var(--accent-soft);
+  font-weight: 800;
+  letter-spacing: 0.04em;
+}
+
 .kristjan-air-panel-link:hover .kristjan-air-cover,
 .kristjan-air-panel-link:hover .kristjan-air-copy,
 .kristjan-air-panel-link:focus-visible .kristjan-air-cover,
 .kristjan-air-panel-link:focus-visible .kristjan-air-copy {
   border-color: rgba(255, 106, 0, 0.45);
+}
+
+.kristjan-air-panel-link:hover .kristjan-air-more,
+.kristjan-air-panel-link:focus-visible .kristjan-air-more {
+  color: var(--accent);
 }
 
 .detail-page {

@@ -3,10 +3,25 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="asset-version" content="20260412" />
   <meta name="description" content="Icebrothes® — íslenskt GTA crew. Appelsínugult blóð. Svartaðir bílar." />
+  <meta name="theme-color" content="#111111" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Icebrothes" />
   <title>Icebrothes® | Íslenskt GTA crew</title>
-  <link rel="icon" type="image/png" href="Photos/Logos/Icebrothes_AnniversaryLogo_Orange.png" />
-  <link rel="stylesheet" href="style.css" />
+  <script>
+    window.getAssetUrl = function (path) {
+      const version = document
+        .querySelector('meta[name="asset-version"]')
+        ?.getAttribute('content');
+      return version ? path + '?v=' + version : path;
+    };
+
+    document.write('<link rel="icon" type="image/png" href="' + window.getAssetUrl('Photos/Logos/Icebrothes_AnniversaryLogo_Orange.png') + '" />');
+    document.write('<link rel="apple-touch-icon" href="' + window.getAssetUrl('Photos/Logos/Icebrothes_AnniversaryLogo_Orange.png') + '" />');
+    document.write('<link rel="manifest" href="' + window.getAssetUrl('site.webmanifest') + '" />');
+    document.write('<link rel="stylesheet" href="' + window.getAssetUrl('style.css') + '" />');
+  </script>
 </head>
 <body>
   <a class="skip-link" href="#home">Sleppa í efni</a>
@@ -192,24 +207,12 @@
         </div>
         <div class="kristjan-air-copy">
           <p>
-            Kristján Air er innra airline sub-brand Icebrothes®, í eigu og rekstri Kristjáns. Þetta er raunverulegur hluti af crew lore-inu,
-            ekki bara eitthvert aukagrín.
+            Kristján Air er flugfélag Icebrothes®, stofnað af Kristjáni og byggt á lúxus, gullþotu, óvæntum lendingum og status sem enginn getur ignorerað.
           </p>
           <p>
-            Merkið byggir á navy og gylltu premium airline útliti, gullinni einkaþotu og einni varanlegri óvissu:
-            enginn veit nokkurn tímann hvort flugið endar í lúxus eða hörmung.
+            Félagið sér um að flytja Icebrothes meðlimi milli staða á events og afmælum, á meðan farþegar fá kampavín, vindla og mjög mistrausta lendingarupplifun.
           </p>
-          <p>
-            Kristján Air sér um að koma Icebrothes meðlimum milli staða á sérstökum viðburðum og hefur sérhæft sig í lendingum á alls konar stöðum,
-            á meðan öryggi farþega er alltaf sagt vera í forgangi.
-          </p>
-          <p>
-            Kristján býður upp á kampavín og vindla meðan flugi stendur, uppfærir farþega reglulega um stöðu flugsins og selur upplifunina eins og
-            um fyrsta flokks þjónustu sé að ræða, jafnvel þegar útkoman virðist stundum mjög vafasöm.
-          </p>
-          <p>
-            Eini starfsmaðurinn er Fúsi "Hagrid", sem var ráðinn til Kristján Air vegna vaxandi vinsælda fyrirtækisins.
-          </p>
+          <p class="kristjan-air-more">Sjá meira um Kristján Air</p>
         </div>
       </a>
     </section>
@@ -446,6 +449,8 @@
     </div>
   </footer>
 
-  <script src="script.js"></script>
+  <script>
+    document.write('<script src="' + window.getAssetUrl('script.js') + '"><\/script>');
+  </script>
 </body>
 </html>

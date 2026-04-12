@@ -1,0 +1,16 @@
+{
+  "name": "Icebrothes",
+  "short_name": "Icebrothes",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "Photos/Logos/Icebrothes_AnniversaryLogo_Orange.png",
+      "sizes": "3200x3200",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
