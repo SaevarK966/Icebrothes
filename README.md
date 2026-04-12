@@ -1,116 +1,63 @@
-# \# Icebrothes
+# Icebrothes
 
-# 
+Official website project for **Icebrothes**, an Icelandic GTA crew built around friendship, identity, cars, themed events, and long-running inside jokes that became real lore.
 
-# Legendary Icelandic GTA crew site.
+The site is designed to feel dark, cinematic, clean, and premium while staying fully static and GitHub Pages friendly.
 
-# 
+## Canonical docs
 
-# \## About
+- [CREW_CONTEXT.md](CREW_CONTEXT.md)  
+  Main canon, tone, visual identity, members, lore, and writing guidance.
 
-# This repository contains the official website project for \*\*Icebrothes\*\*, an Icelandic GTA crew built around friendship, identity, car culture, themed events, and a long-running inside joke that became a real crew name.
+- [SITE_REFERENCE.md](SITE_REFERENCE.md)  
+  Practical site reference for current pages, detail slugs, asset folders, and maintenance notes.
 
-# 
+- [AGENTS.md](AGENTS.md)  
+  Repository editing rules for coding agents and contributors.
 
-# The site is designed to present the crew in a clean, dark, cinematic, and premium way using a static GitHub Pages setup.
+## Current site scope
 
-# 
+The website currently covers:
 
-# \## Crew
+- homepage / hero
+- about Icebrothes
+- member cards and detail pages
+- crew identity pages for outfit, crew car, and logo history
+- Kristján Air sub-brand page
+- event archive with detail pages and galleries
+- general gallery / random images
+- footer with contact and channel information
 
-# Icebrothes has 7 members:
+## Core facts
 
-# 
+- Correct name: **Icebrothes**
+- Founded: **27 March 2015**
+- Base identity: **Akureyri, Iceland**
+- Motto: **More Test – More Breast**
+- Members: **7**
 
-# \- SævarK
+## Tech
 
-# \- Kiddi
+- HTML
+- CSS
+- JavaScript
 
-# \- Páll
+No frameworks. No build step. No heavy dependencies.
 
-# \- Fúsi
+## Publishing
 
-# \- Steve
+The project is intended for **GitHub Pages**.
 
-# \- Valur
+It now includes:
 
-# \- SLEO
+- favicon support
+- `apple-touch-icon` support for iPhone/iPad home screen
+- `site.webmanifest` for installable web app metadata
+- lightweight cache-busting via shared asset version tags in `index.html` and `detail.html`
 
-# 
+## Non-negotiables
 
-# \## Visual identity
-
-# \- Main color: orange
-
-# \- Secondary colors: black, white, dark gray
-
-# \- Style: tactical, bold, cinematic, premium
-
-# 
-
-# \## Site structure
-
-# The website is intended to include sections such as:
-
-# 
-
-# \- Hero
-
-# \- About
-
-# \- Members
-
-# \- Crew Identity
-
-# \- Events
-
-# \- Gallery
-
-# \- Footer
-
-# 
-
-# \## Tech
-
-# This site uses:
-
-# 
-
-# \- HTML
-
-# \- CSS
-
-# \- JavaScript
-
-# 
-
-# No frameworks are required.
-
-# 
-
-# \## Repository guidance
-
-# If you are editing this project with an AI coding agent, read these files first:
-
-# 
-
-# \- `AGENTS.md`
-
-# \- `CREW\_CONTEXT.md`
-
-# 
-
-# \## GitHub Pages
-
-# This repository is intended to be published as a GitHub Pages site.
-
-# 
-
-# \## Note
-
-# The correct crew name is \*\*Icebrothes\*\*.
-
-# 
-
-# It is intentionally spelled this way and must not be changed to \*\*Ice Brothers\*\*.
-
+- Never rename **Icebrothes** to **Ice Brothers**
+- Preserve Icelandic identity and established lore
+- Keep the visual style dark, bold, cinematic, and premium
+- Prefer clean semantic HTML and lightweight JavaScript

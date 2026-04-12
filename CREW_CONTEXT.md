@@ -1,184 +1,351 @@
 # CREW_CONTEXT.md
 
 ## Crew name
-Icebrothes
 
-This spelling is intentional.
-It must never be corrected to "Ice Brothers".
+**Icebrothes**
+
+This spelling is intentional.  
+It must never be corrected to **Ice Brothers**.
 
 ## What Icebrothes is
-Icebrothes is an Icelandic GTA crew built around friendship, inside jokes, themed events, cars, and a strong visual identity.
 
-What started as a typo became a legendary inside joke and then a real crew identity.
+Icebrothes is an Icelandic GTA crew built around:
 
-The crew should feel memorable, loyal, stylish, and chaotic in a controlled way.
+- friendship
+- brotherhood
+- inside jokes
+- themed events
+- cars
+- shared visual identity
+
+What started as a typo became a real crew identity with history, rituals, vehicles, recurring jokes, and annual events.
+
+Icebrothes should feel:
+
+- memorable
+- loyal
+- stylish
+- slightly aggressive
+- cinematic
+- chaotic in a controlled way
 
 ## Founding
-Founded: 27 March 2015
-The crew anniversary is celebrated every year on March 27.
+
+- Founded: **27 March 2015**
+- Anniversary date: **March 27** every year
+- Base identity: **Akureyri, Iceland**
 
 ## Crew motto
-More Test – More Breast
+
+**More Test – More Breast**
+
+Use it selectively. It is canon, but it should land as crew lore rather than empty branding filler.
 
 ## Core vibe
+
 - Icelandic identity
-- Brotherhood
-- Car culture
-- Tactical look
-- Cinematic presentation
-- Dark, clean, premium style
-- Orange as the main signature color
+- brotherhood
+- car culture
+- tactical look
+- cinematic presentation
+- dark, clean, premium style
+- orange as the signature color
 
 Avoid:
+
 - childish gaming aesthetics
 - neon overload
 - messy layouts
 - generic esports branding
-- anything that makes the crew feel fake or overly commercial
+- fake corporate language
+- lore that feels invented just to fill space
 
 ## Members
-Icebrothes has 7 members:
 
-- SævarK — Founder and event organizer. Plans and runs all crew events.
-- Kiddi — Owner and CEO of Kristján Air, the crew's internal airline sub-brand.
-- Páll — Core crew member.
-- Fúsi — Nicknamed "Hagrid". The crew's chaos character. Always associated with the Oppressor Mk II. Known for showing up as "air support" and causing unintended destruction. When Fúsi says he is helping, things are about to go wrong.
-- Steve — Known as "Big Steve". Has his own identity within the crew.
-- Valur — Official vote coordinator. When the crew holds competitions, all members send their votes privately to Valur via Messenger. Members may include a written explanation with their vote. Valur then announces each vote one by one and reads out any explanations. Valur facilitates and announces — he does not decide outcomes.
-- SLEO — Core crew member.
+Icebrothes has **7 members**.
 
-## Crew outfit
+### SævarK
+
+- Founder of Icebrothes
+- Main event organizer and structural force behind crew nights
+- Closely tied to mansion meetings, agency meetings, anniversary sessions, and larger themed events
+- Associated with his **Sultan RS**, bought in **2016**
+- The Sultan RS is tied to the story of the **Lexus IS200** he sold the same year and has become a legendary personal car within crew lore
+
+### Kiddi / Kristján
+
+- Member name used on the site: **Kiddi**
+- Full identity: **Kristján**
+- Owner and CEO of **Kristján Air**
+- Drives the airline sub-brand as if it were a legitimate premium operation
+- Known for presenting luxury and confidence even when the outcome of the flight is highly questionable
+
+### Páll
+
+- Core member of Icebrothes
+- Known for **elite driving ability**
+- Also known for strong **jet / flight ability**
+- Has proven that ability through races and vehicle-heavy events
+- Has a slightly vicious or unpredictable side that has itself become part of his identity
+- Associated with the **Hydra** as an honorary signature vehicle
+
+### Fúsi "Hagrid"
+
+- Chaos character within the crew
+- Strongly associated with the **Oppressor Mk II**
+- Often treated as air support, usually with unintended consequences
+- The **Hagrid** nickname became canon after a sell-mission conversation with Sævar and Kiddi
+- The inside joke evolved into **Hagrid á Oppressor**
+- Sole employee of **Kristján Air**
+- Responsible for in-flight callouts and supposed safety checks
+- Twin brother of **Valur**
+
+### Big Steve
+
+- Known as **Big Steve**
+- Has his own identity within the crew
+- Should not be padded out with fake extra titles just to fill space
+
+### Valur
+
+- Official vote coordinator of Icebrothes
+- Often referred to as **The President** / **forsetinn**
+- Members send him votes privately through **Messenger**
+- He counts points, reads explanations when included, and announces outcomes
+- He facilitates the result rather than deciding it himself, even if the joke is that he technically could
+- Often associated with **Joker energy** and a **purple / green** visual identity
+- Twin brother of **Fúsi "Hagrid"**
+
+### SLEO
+
+- Core member of Icebrothes
+- Part of the stable long-term identity of the crew
+- Should be written as a real part of the core, not as filler
+
+## Identity pillars
+
+### Crew outfit
+
 The signature Icebrothes outfit includes:
 
-- Black Los Santos cap with LS logo
-- Black reflective sunglasses
-- Black skull bandana covering the lower face
-- Orange t-shirt (no extra logos)
-- Black cargo pants
-- Black gloves
-- Black tactical combat boots
-- Full tattoo sleeves
-- Watch on left wrist
+- black Los Santos cap with LS logo
+- black reflective sunglasses
+- black skull bandana covering the lower face
+- orange t-shirt
+- black cargo pants
+- black gloves
+- black tactical boots
+- watch on left wrist
+- full tattoo sleeves
 
-No tactical vest. The outfit should feel unified, recognizable, and slightly intimidating.
+This is the fixed outfit of Icebrothes and is used at honor events such as anniversaries and other major crew nights.
 
-## Crew car
+There is also an **Icebrothes.V2** outfit concept:
+
+- darker overall look
+- black and dark blue palette
+- was created, but never meaningfully adopted
+
+The original orange version remains the real official outfit identity.
+
+### Crew car
+
 The signature crew car is:
 
-- Canis Mesa, Merryweather variant
+- **Canis Mesa, Merryweather variant**
 
 Key styling details:
-- Primary color: Orange
-- Secondary color: Black
-- Lowrider rims with white-wall trim
-- Orange rim centers
-- Lifted suspension
-- Black bull bars and front bumper reinforcements
-- Snorkel on right side
-- Roof rack with 4 round lights
-- Extended fender flares
-- Large off-road tires
-- Icebrothes logo on hood only — no logos on doors
 
-The vehicle should feel rugged, recognizable, and iconic for the crew.
+- orange primary color
+- black secondary theme
+- chrome rims
+- white-wall tire rings
+- lifted suspension
+- black bull bars and reinforced front end
+- snorkel on the right side
+- roof rack with four round lights
+- hood logo only
 
-## Crew logo
-The Icebrothes logo includes:
+Lore note:
 
-- Icelandic flag centered
-- Two black fists above the flag
-- Two orange off-road vehicles (jeep style) on the sides
-- A black skull with horns in the center between the vehicles
-- "ICEBROTHES" in bold arched text above
-- Year range below (e.g. 2015–2025 or 2015–2026)
-- Main crew color is orange
+In the early days of GTA Online, the Merryweather Mesa was not something you could simply buy. Icebrothes had to trigger Merryweather to spawn it, then capture it. That difficulty is part of why the vehicle matters.
 
-The logo represents:
-- Icelandic identity
-- Strength and brotherhood
-- Car culture
+There is also a classic crew story about one customized Icebrothes Mesa being lost before it was insured. The member later got another copy, but the first one was gone.
 
-## Kristján Air
-Kristján Air is an internal sub-brand within Icebrothes, owned and operated by Kiddi (Kristján).
+### Crew logo
 
-- Sole employee: Fúsi (Hagrid)
-- Aesthetic: Navy blue and gold, premium airline branding
-- Signature asset: Golden private jet
-- Running joke: Flights are advertised as luxury but the outcome is unpredictable. Members never know if they will land safely or if something will go wrong.
-- Used in Kahoot questions, roleplay scenarios, and as a recurring part of crew lore.
-- Kristján Air has its own logo: a golden aircraft inside a navy circle with snowflake details and gold lettering.
+The logo history is important and should be treated as an evolution, not a set of random image files.
 
-Kristján Air should be treated as a legitimate crew sub-brand with its own identity, not just a casual joke.
+#### 2015 prototype
 
-## Event identity
-Icebrothes is not just about free roam sessions.
-The crew has a history of themed events and memorable activities.
+- raw prototype made by **Sævar**
+- created using **Rockstar Editor**
+- rough and unpolished, but the seed of the identity was there
 
-Known events include:
+#### OG logo
 
-**10 Year Anniversary (2025)**
-Full Icebrothes outfit and crew car. Group drive, crew photo, short meeting at SævarK's agency.
+- first fully established Icebrothes logo
+- used for many years
+- centered the Icelandic flag, fists, vehicles, and horned skull identity
 
-**11 Year Anniversary (2026)**
-Custom car showcase and convoy up Mount Chilliad. Each member customizes any vehicle in Icebrothes colors (orange, black, white) with the crew logo. Votes submitted privately to Valur via Messenger. Winner announced by Valur at the summit.
+#### Anniversary / current logo
 
-**Mount Chilliad Hike**
-Members dressed in hiking gear, armed with knives only. Group hike up Mount Chilliad. Mountain lions were a hazard. Group waited for anyone who died before continuing. Anyone who misbehaved or ran ahead faced an emergency crew meeting.
+- introduced in **March 2025**
+- originally created for the **10 year anniversary**
+- became the current main logo of Icebrothes
+- keeps the same symbolic core but executes it in a cleaner, heavier, more confident way
 
-**Mansion Night and Kahoot**
-Hosted at SævarK's mansion. Drinks, hot tub meeting (pottfundur), crew discussion. Custom Icebrothes Kahoot quiz streamed on Twitch (SaevarK96), members answered on phones. Hide and seek inside the mansion. Points system.
+Core logo symbolism:
 
-**Halloween Horror Ride**
-Members arrived in Halloween costumes with scary vehicles. Spooky cruise through Paleto Bay at night. Competition for best costume and most intimidating car. Bonus points for successful mugger attacks on other members. Valur coordinated voting.
+- Icelandic flag
+- black fists
+- off-road vehicles
+- skull / horn identity
+- orange as signature color
 
-**Mount Gordo Bike Trip**
-Crew rode electric bikes to Mount Gordo. Fishing stop at the water. Attempted jumps to the lighthouse island. Taxis and flights followed. Evening ended at the penthouse with a points system and vote on best outfit.
+### Kristján Air
 
-These events should be presented as part of the crew culture, not as random mini-games.
+Kristján Air is a real Icebrothes sub-brand and should be treated seriously inside the lore.
 
-## Writing guidance for site copy
+- Founded in **2019**
+- Founded by **Kristján / Kiddi**
+- Exists to transport Icebrothes members between events, meetings, and anniversary activities
+- Started with a conventional private jet
+- Later upgraded to a **gold-plated private jet** worth around **10 million dollars** in crew lore
+- Known for luxury branding, status, and extremely questionable landing choices
+- Has landed in absurd places, including **Mount Chilliad**
+
+Fúsi joined Kristján Air in **2024** as the only employee.
+
+His role includes:
+
+- shouting updates over the intercom
+- announcing important information during flights
+- handling the so-called safety check before flights
+
+Crew lore says that the safety check is almost never actually performed.
+
+Kristján Air should feel:
+
+- premium
+- self-important
+- funny without becoming silly
+- confident enough to land where no one should attempt to land
+
+## Event canon
+
+Icebrothes is not just free roam.  
+The crew has a real event culture.
+
+Current known event canon includes:
+
+### Áramót 2020
+
+- crew met after midnight on New Year's Eve
+- snow trip up Mount Chilliad
+- fireworks at the summit
+- club continuation inside GTA Online while Covid affected real life
+- Kristján Air transported the crew and landed on the racecourse / horse track area
+
+### Valentínusarkeppni Icebrothes
+
+- held on **14 February 2025**
+- competition for the most romantic outfit and car
+- Valur handled vote counting and results
+
+### Purple Gang Takeover
+
+- held on **23 March 2025**
+- full purple alien suit theme
+- lobby takeover energy
+
+### 10 Year Anniversary
+
+- held in **March 2025**
+- full official outfit
+- crew car presence
+- group drive
+- group photos
+- short meeting
+- anniversary logo became central identity marker
+
+### Mount Chilliad hike
+
+- held in **March 2025**
+- hiking gear only
+- knives only
+- mountain lions as hazard
+- group discipline mattered
+
+### Mount Gordo bike trip
+
+- held in **March 2025**
+- electric bikes
+- fishing stop
+- jumps
+- taxis / flights
+- penthouse finish
+- points and outfit voting
+
+### Halloween Horror Ride
+
+- held in **October 2025**
+- horror outfits and scary vehicles
+- Paleto Bay night cruise
+- bonus for strong mugger attacks
+
+### Mansion Meeting og Kahoot
+
+- mansion setup at SævarK's place
+- drinks, pottfundur, crew discussion
+- custom Icebrothes Kahoot
+- hide and seek
+- point system
+
+### 11 Year Anniversary
+
+- held in **March 2026**
+- custom car competition
+- shared Icebrothes colors
+- convoy up Mount Chilliad
+- Valur announced private votes
+
+## Writing guidance
+
 When writing about Icebrothes:
-- keep the language clean and confident
-- make the crew feel legendary but grounded
-- avoid cringe or over-the-top gamer slang
-- keep humor subtle
-- preserve the sense of history and identity
 
-## Design guidance
+- keep the language direct
+- keep humor controlled
+- make the crew feel legendary but grounded
+- preserve the sense of history
+- keep headings punchy
+- keep body copy readable
+- avoid generic marketing filler
+
+## Visual guidance
+
 The site should visually align with:
+
 - black and dark gray surfaces
 - orange highlights
 - white text
 - bold headings
+- premium spacing
 - cinematic and tactical mood
 
-Good section ideas:
-- Hero
-- About
-- Members
-- Crew Identity
-- Events
-- Gallery
-- Footer
+Good section patterns:
 
-## Asset guidance
-Reference images may be uploaded for:
-- crew cars
-- crew outfits
-- Icebrothes logo
-- Kristján Air logo
-
-If those assets are available in the repository:
-- use them in the relevant sections
-- make the layout support visual storytelling
-- keep image presentation clean and premium
-
-If assets are not yet available:
-- use elegant placeholders
-- keep the structure ready for future replacement
+- hero
+- members
+- crew identity
+- events
+- gallery
+- footer
 
 ## Final instruction
-If any design or copy choice is unclear, prefer the version that makes Icebrothes feel:
+
+If a copy or design decision is unclear, prefer the version that makes Icebrothes feel:
+
 - cleaner
 - stronger
 - more cinematic
