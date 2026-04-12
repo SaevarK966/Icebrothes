@@ -4,6 +4,10 @@ const ACTIVE_LINK_SCROLL_OFFSET = 120;
 const menuToggle = document.querySelector('.menu-toggle');
 const navLinks = document.querySelector('.nav-links');
 const navAnchors = document.querySelectorAll('.nav-links a');
+const sectionNavAnchors = [...navAnchors].filter((anchor) => {
+  const href = anchor.getAttribute('href');
+  return href && href.startsWith('#');
+});
 
 if (menuToggle && navLinks) {
   menuToggle.addEventListener('click', () => {
@@ -41,7 +45,7 @@ if ('IntersectionObserver' in window) {
 
 const sections = document.querySelectorAll('main section[id]');
 const navMap = new Map(
-  [...navAnchors]
+  sectionNavAnchors
     .map((anchor) => {
       const href = anchor.getAttribute('href');
       return href ? [href.slice(1), anchor] : null;
@@ -50,6 +54,8 @@ const navMap = new Map(
 );
 
 const updateActiveLink = () => {
+  if (!sections.length || !sectionNavAnchors.length) return;
+
   const y = window.scrollY + ACTIVE_LINK_SCROLL_OFFSET;
   let current = 'home';
 
@@ -59,10 +65,12 @@ const updateActiveLink = () => {
     }
   });
 
-  navAnchors.forEach((a) => a.classList.remove('active'));
+  sectionNavAnchors.forEach((a) => a.classList.remove('active'));
   const active = navMap.get(current);
   if (active) active.classList.add('active');
 };
 
-window.addEventListener('scroll', updateActiveLink, { passive: true });
-updateActiveLink();
+if (sections.length && sectionNavAnchors.length) {
+  window.addEventListener('scroll', updateActiveLink, { passive: true });
+  updateActiveLink();
+}

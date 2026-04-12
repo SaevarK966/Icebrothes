@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Icebrothes® detail síða fyrir members, viðburði, búnað og crew identity." />
+  <title>Icebrothes®</title>
+  <link rel="icon" type="image/png" href="Photos/Logos/Icebrothes_AnniversaryLogo_Orange.png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body data-page="detail">
+  <a class="skip-link" href="#main-content">Sleppa í efni</a>
+
+  <header class="site-header">
+    <nav class="nav container" aria-label="Aðalvalmynd">
+      <a class="brand" href="index.html#home">ICEBROTHES®</a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Opna valmynd">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul id="primary-nav" class="nav-links">
+        <li><a href="index.html#home">Heim</a></li>
+        <li><a href="index.html#about">Um crewið</a></li>
+        <li><a href="index.html#members">Meðlimir</a></li>
+        <li><a href="index.html#identity">Búnaður</a></li>
+        <li><a href="index.html#kristjan-air">Kristján Air</a></li>
+        <li><a href="index.html#events">Viðburðir</a></li>
+        <li><a href="index.html#gallery">Myndir</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content" class="detail-page">
+    <section class="section container reveal">
+      <a id="detail-back-link" class="back-link" href="index.html">Aftur á forsíðu</a>
+      <p id="detail-eyebrow" class="eyebrow"></p>
+      <div class="detail-title-row">
+        <h1 id="detail-title"></h1>
+        <img id="detail-title-logo" class="detail-title-logo" src="" alt="" hidden />
+      </div>
+      <p id="detail-lead" class="lead"></p>
+    </section>
+
+    <section class="section container page-shell reveal">
+      <div class="page-grid">
+        <figure class="panel page-visual">
+          <img id="detail-image" src="" alt="" />
+          <figcaption id="detail-caption"></figcaption>
+        </figure>
+
+        <aside class="page-sidebar">
+          <section class="panel">
+            <h2 class="panel-title">Yfirlit</h2>
+            <ul id="detail-facts" class="stat-list"></ul>
+          </section>
+
+          <section class="panel">
+            <h2 class="panel-title">Næst</h2>
+            <div id="detail-related" class="related-links"></div>
+          </section>
+        </aside>
+      </div>
+
+      <section class="panel page-story">
+        <h2 class="panel-title">Nánar</h2>
+        <div id="detail-body" class="page-story-copy"></div>
+      </section>
+
+      <section id="detail-gallery-section" class="page-gallery-section">
+        <div class="section-heading">
+          <p class="eyebrow">Myndir</p>
+          <h2 id="detail-gallery-title">Myndir frá viðburðinum</h2>
+        </div>
+        <div id="detail-gallery" class="detail-gallery"></div>
+      </section>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p><strong>ICEBROTHES®</strong></p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+  <script src="detail.js"></script>
+</body>
+</html>
