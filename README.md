@@ -25,6 +25,7 @@ The website currently covers:
 - crew identity pages for outfit, crew car, and logo history
 - Kristján Air sub-brand page
 - event archive with detail pages and galleries
+- meetings archive and printable meeting minutes templates
 - general gallery / random images
 - footer with contact and channel information
 
@@ -54,6 +55,14 @@ It now includes:
 - `apple-touch-icon` support for iPhone/iPad home screen
 - `site.webmanifest` for installable web app metadata
 - lightweight cache-busting via shared asset version tags in `index.html` and `detail.html`
+
+## Meetings workflow
+
+- Raw meeting template: `Meetings/IcebrothesFundagerd_Template.txt`
+- New raw meeting files: `Meetings/Fundagerðir/YYYY-MM-DD.txt`
+- Finished site pages: `fundargerd-*.html`
+
+When a new `.txt` file is added under `Meetings/Fundagerðir/`, it should be turned into a matching HTML minutes page and linked from `fundir.html`.
 
 ## Non-negotiables
 

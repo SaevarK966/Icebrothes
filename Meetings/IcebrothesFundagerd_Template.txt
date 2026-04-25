@@ -1,0 +1,43 @@
+DAGSETNING: [14. apríl 2026]
+STAÐSETNING: [xxx]
+FUNDARSTJÓRI: [Kristján]
+RITARI: [xxx]
+
+MÆTING:
+- SævarK
+- Kiddi
+- Páll
+- Fúsi "Hagrid"
+- Big Steve
+- Valur
+- SLEO
+
+FJARVERA:
+- [Enginn]
+
+DAGSKRÁ:
+1. [Yfirlit yfir síðasta event]
+   - [Hvað var rætt]
+2. [Næsta event]
+   - [Hvað var rætt]
+3. [Önnur mál]
+   - [Hvað var rætt]
+
+ÁKVARÐANIR:
+- [Ákvörðun 1]
+- [Ákvörðun 2]
+- [Ákvörðun 3]
+
+REKNINGARKOSNING:
+VIRK: [já / nei]
+ATKVÆÐI Á SIG:
+- [Nafn] | [Stutt ástæða] | [x / 7]
+- [Nafn] | [Stutt ástæða] | [x / 7]
+
+NIÐURSTAÐA: [Ekki rekinn / Rekinn]
+
+NÆSTI FUNDUR:
+[Næsti fundur óákveðinn]
+
+ATHUGASEMDIR:
+- [Auka punktur ef þarf]

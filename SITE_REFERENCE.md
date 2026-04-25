@@ -15,6 +15,8 @@ Use it when you need to know:
 
 - `index.html`
 - `detail.html`
+- `fundir.html`
+- `fundargerd-snidmat.html`
 - `style.css`
 - `script.js`
 - `detail.js`
@@ -32,8 +34,31 @@ The homepage currently includes:
 - identity / búnaður
 - Kristján Air
 - events
+- meetings teaser
 - random gallery
 - footer
+
+### Meetings pages
+
+The meeting system currently includes:
+
+- `fundir.html`  
+  Archive / overview page for Icebrothes meetings
+
+- `fundargerd-snidmat.html`  
+  Printable template for new formal meeting minutes
+
+- `fundargerd-2026-04-13.html`  
+  Example completed meeting minutes page
+
+- `Meetings/IcebrothesFundagerd_Template.txt`  
+  Raw master template for new meeting notes
+
+- `Meetings/Fundagerðir/`  
+  Raw `.txt` source folder for new meeting notes that will later be turned into HTML pages
+
+- `Meetings/Images/`  
+  Meeting images used on `fundir.html` or inside completed meeting pages
 
 ### Detail page system
 
@@ -159,6 +184,14 @@ When adding a new member, event, or identity page:
 3. Add any required styling in `style.css`.
 4. If the new content changes canon or crew reference material, update `CREW_CONTEXT.md`.
 5. If the new content changes the implemented structure, update this file.
+
+When adding a new meeting:
+
+1. Copy `Meetings/IcebrothesFundagerd_Template.txt`
+2. Save it as `Meetings/Fundagerðir/YYYY-MM-DD.txt`
+3. Fill in the raw meeting content
+4. Generate a matching HTML meeting page from it
+5. Add the new entry to `fundir.html`
 
 ## Home screen / icon setup
 

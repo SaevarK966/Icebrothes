@@ -409,7 +409,7 @@ const detailPages = {
       {
         src: 'Photos/Events/11Year-Anniv/IMG_8165.jpg',
         alt: '11 ára custom-bílakeppni mynd eitt',
-        caption: 'Lineup frá 11 ára kvöldinu.'
+        caption: 'Kristján Air hefur lent uppi á Mount Chilliad.'
       },
       {
         src: 'Photos/Events/11Year-Anniv/IMG_8161.jpg',

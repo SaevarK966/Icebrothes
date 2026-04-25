@@ -3,12 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="asset-version" content="20260412" />
+  <meta name="asset-version" content="20260414m" />
   <meta name="description" content="Icebrothes® — íslenskt GTA crew. Appelsínugult blóð. Svartaðir bílar." />
   <meta name="theme-color" content="#111111" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-title" content="Icebrothes" />
   <title>Icebrothes® | Íslenskt GTA crew</title>
+  <link rel="canonical" href="https://icebrothes.page/" />
   <script>
     window.getAssetUrl = function (path) {
       const version = document
@@ -41,6 +42,7 @@
         <li><a href="#identity">Búnaður</a></li>
         <li><a href="#kristjan-air">Kristján Air</a></li>
         <li><a href="#events">Viðburðir</a></li>
+        <li><a href="fundir.html">Fundir</a></li>
         <li><a href="#gallery">Myndir</a></li>
       </ul>
     </nav>
@@ -57,11 +59,12 @@
         <a class="btn btn-primary" href="#members">Sjá crewið</a>
         <a class="btn btn-ghost" href="#events">Sjá viðburði</a>
       </div>
-      <img
-        class="hero-logo"
-        src="Photos/Logos/Icebrothes_Widescreen.png"
-        alt="Icebrothes crew merki — 2015–2025"
-      />
+      <div class="hero-logo-wrap">
+        <img
+          src="Photos/Logos/Icebrothes_AnniversaryLogo_Orange.png"
+          alt="Icebrothes crew merki — 10 ára afmæli"
+        />
+      </div>
     </section>
 
     <section id="about" class="section container reveal">
@@ -225,6 +228,7 @@
       <p class="lead events-intro">
         Hér eru eventin sem hafa verið haldin, með myndum úr möppunni og stuttu yfirliti um hvað fór fram á hverju kvöldi.
       </p>
+      <p class="events-latest-label">Nýjustu 4</p>
       <div class="card-grid events-grid">
         <article class="card event-card">
           <a class="card-link" href="detail.html?slug=event-11-year-anniversary">
@@ -286,81 +290,81 @@
             </div>
           </a>
         </article>
-        <article class="card event-card">
-          <a class="card-link" href="detail.html?slug=event-10-year-anniversary">
-            <img src="Photos/Events/10Year-Annniv/IMG_4369.JPEG" alt="10 ára afmæli Icebrothes" />
-            <div class="event-copy">
-              <p class="event-meta">Mars 2025</p>
-              <h3>10 ára afmæli Icebrothes®</h3>
-              <p>
-                Crewið hittist í fullu Icebrothes outfiti og mætti á appelsínugulum og svörtum Canis Mesa til að fagna 10 árum frá stofnun crewsins.
-              </p>
-              <p>
-                Kvöldið snerist um sameiginlegan akstur, hópmynd á góðum stað og stuttan fund í agency hjá SævarK til að marka tímamótin.
-              </p>
+      </div>
+
+      <details class="events-timeline-toggle">
+        <summary>Sjá eldri viðburði</summary>
+        <div class="events-archive">
+          <section class="events-archive-year">
+            <p class="events-archive-year-label">2025</p>
+            <div class="events-archive-list">
+              <a class="events-archive-item" href="detail.html?slug=event-10-year-anniversary">
+                <span class="events-archive-date">Mars 2025</span>
+                <span class="events-archive-copy">
+                  <strong>10 ára afmæli Icebrothes®</strong>
+                  <span>Fullt outfit, crew bílarnir, group drive og milestone kvöld sem markaði tíu ára identity crewsins.</span>
+                </span>
+              </a>
+              <a class="events-archive-item" href="detail.html?slug=event-purple-gang-takeover">
+                <span class="events-archive-date">Mars 2025</span>
+                <span class="events-archive-copy">
+                  <strong>Purple Gang Takeover</strong>
+                  <span>Purple alien suits, sameiginleg keyrsla og lobby takeover þar sem Icebrothes mætti til að ráða stemningunni.</span>
+                </span>
+              </a>
+              <a class="events-archive-item" href="detail.html?slug=event-mount-chilliad-hike">
+                <span class="events-archive-date">Mars 2025</span>
+                <span class="events-archive-copy">
+                  <strong>Mount Chilliad fjallganga</strong>
+                  <span>Hiking gear, knives only og skýr regla um að halda hópnum saman alla leið upp fjallið.</span>
+                </span>
+              </a>
+              <a class="events-archive-item" href="detail.html?slug=event-valentines-competition">
+                <span class="events-archive-date">Febrúar 2025</span>
+                <span class="events-archive-copy">
+                  <strong>Valentínusarkeppni Icebrothes</strong>
+                  <span>Rómantískasta outfit-ið og bíllinn fengu sitt kvöld með formlegu stigahaldi hjá Val.</span>
+                </span>
+              </a>
             </div>
-          </a>
-        </article>
-        <article class="card event-card">
-          <a class="card-link" href="detail.html?slug=event-purple-gang-takeover">
-            <img src="Photos/Events/PurpleGangTakeOver/purplegang.jpg" alt="Purple Gang Takeover hjá Icebrothes" />
-            <div class="event-copy">
-              <p class="event-meta">Mars 2025</p>
-              <h3>Purple Gang Takeover</h3>
-              <p>
-                Allir mættu í purple alien suit, fóru saman á bílum og tóku lobbyið yfir með fullu Icebrothes presence.
-              </p>
-              <p>
-                Kvöldið snerist um að asserta dominance, valda usla og keyra þemað alla leið þar til Los Santos var komið í rúst.
-              </p>
+          </section>
+
+          <section class="events-archive-year">
+            <p class="events-archive-year-label">2020</p>
+            <div class="events-archive-list">
+              <a class="events-archive-item" href="detail.html?slug=event-new-year-2020">
+                <span class="events-archive-date">Áramót 2020–2021</span>
+                <span class="events-archive-copy">
+                  <strong>Áramót 2020</strong>
+                  <span>Snjóferð upp á Mount Chilliad, flugeldar eftir miðnætti og Kristján Air flug í klúbbinn.</span>
+                </span>
+              </a>
             </div>
-          </a>
-        </article>
-        <article class="card event-card">
-          <a class="card-link" href="detail.html?slug=event-mount-chilliad-hike">
-            <img src="Photos/Events/Fjallganga/mountainhikePhoto_Main.jpg" alt="Hópskot úr Mount Chilliad fjallgöngu" />
-            <div class="event-copy">
-              <p class="event-meta">Mars 2025</p>
-              <h3>Mount Chilliad fjallganga</h3>
-              <p>
-                Meðlimir mættu í fjallagöngubúnaði, hittust á merktum stað og lögðu af stað gangandi upp Mount Chilliad með aðeins hníf á sér.
-              </p>
-              <p>
-                Eventið snerist um að halda hópnum saman, lifa af fjallaljón og ná á toppinn án þess að einhver færi fram úr eða eyðilegði stemninguna.
-              </p>
-            </div>
-          </a>
-        </article>
-        <article class="card event-card">
-          <a class="card-link" href="detail.html?slug=event-valentines-competition">
-            <img src="Photos/Events/Valentínusarkeppni Icebrothes/0_020.jpg" alt="Valentínusarkeppni Icebrothes" />
-            <div class="event-copy">
-              <p class="event-meta">Febrúar 2025</p>
-              <h3>Valentínusarkeppni Icebrothes</h3>
-              <p>
-                Keppni þar sem markmiðið var að mæta í rómantískasta búningnum og á rómantískasta bílnum.
-              </p>
-              <p>
-                Kiddi, Fúsi og Sævar tóku þátt á meðan Valur hélt utan um stigahald og úrslit kvöldsins.
-              </p>
-            </div>
-          </a>
-        </article>
-        <article class="card event-card">
-          <a class="card-link" href="detail.html?slug=event-new-year-2020">
-            <img src="Photos/Events/Áramót 2020/GTA.Online_31. desember 2020_03.jpg" alt="Áramót 2020 hjá Icebrothes á Mount Chilliad" />
-            <div class="event-copy">
-              <p class="event-meta">Áramót 2020–2021</p>
-              <h3>Áramót 2020</h3>
-              <p>
-                Icebrothes hittust eftir miðnætti á gamlárskvöldi, fóru upp á Mount Chilliad í snjónum og sprengdu flugelda til að fagna nýju ári.
-              </p>
-              <p>
-                Þegar allt var lokað út af Covid tók Kristján Air svo hópinn í klúbbinn í GTA Online og lenti á hestavellinum eins og ekkert væri eðlilegra.
-              </p>
-            </div>
-          </a>
-        </article>
+          </section>
+        </div>
+      </details>
+    </section>
+
+    <section id="meetings" class="section container reveal">
+      <div class="section-heading">
+        <p class="eyebrow">Fundir</p>
+        <h2>Fundir og fundargerðir Icebrothes</h2>
+      </div>
+      <div class="meetings-home-panel">
+        <div class="panel">
+          <p>
+            Icebrothes tekur reglulega fundi eftir events og líka á random tímum þegar þarf að fara yfir stöðuna,
+            næstu viðburði, Kristján Air ruglið og framtíð crewsins í heild.
+          </p>
+          <p>
+            Í lok funda geta farið fram rekningarkosningar þar sem hver meðlimur fær eitt atkvæði eða getur sagt pass.
+            Ef einhver fær meira en 3 atkvæði er hann rekinn úr Icebrothes.
+          </p>
+        </div>
+        <div class="meetings-home-actions">
+          <a class="btn btn-primary" href="fundir.html">Opna Fundir</a>
+          <a class="btn btn-ghost" href="fundargerd-snidmat.html">Opna fundargerðarsniðmát</a>
+        </div>
       </div>
     </section>
 
@@ -372,14 +376,26 @@
       <div class="gallery-grid" aria-label="Myndir úr Icebrothes safninu">
         <figure class="gallery-item">
           <img src="Photos/Random/0_0.jpg" alt="Icebrothes crew bíll" />
-          <figcaption>Crew bíllinn</figcaption>
+          <figcaption>Uppröðun á crew bílnum í fjallaferð 10 ára afmælis</figcaption>
+        </figure>
+        <figure class="gallery-item">
+          <img src="Photos/Random/10araafmaelisrunutrchilliad.jpg" alt="10 ára afmælis keyrsla Icebrothes við Chilliad" />
+          <figcaption>10 ára afmælisruna við Chilliad</figcaption>
+        </figure>
+        <figure class="gallery-item">
+          <img src="Photos/Random/1212jpg.jpg" alt="Random mynd úr Icebrothes safninu" />
+          <figcaption>Augnablik úr safninu</figcaption>
+        </figure>
+        <figure class="gallery-item">
+          <img src="Photos/Random/4468202F-C4A6-4560-92C9-78BE7B8BE3DB.jpg" alt="Icebrothes moment úr random möppunni" />
+          <figcaption>Uppstilling apríl 2020</figcaption>
         </figure>
         <figure class="gallery-item">
           <img src="Photos/Random/crew.jpg" alt="Icebrothes crew saman" />
           <figcaption>Crewið saman</figcaption>
         </figure>
         <figure class="gallery-item">
-          <img src="Photos/Random/IcebrothesViðFundaborð.jpg" alt="Icebrothes við fundaborð" />
+          <img src="Photos/Random/IMG_7201.jpg" alt="Icebrothes við fundaborð eða samkomu" />
           <figcaption>Við fundaborðið</figcaption>
         </figure>
         <figure class="gallery-item">

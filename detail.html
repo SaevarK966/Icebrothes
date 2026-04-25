@@ -3,12 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="asset-version" content="20260412" />
+  <meta name="asset-version" content="20260414n" />
   <meta name="description" content="Icebrothes® detail síða fyrir members, viðburði, búnað og crew identity." />
   <meta name="theme-color" content="#111111" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-title" content="Icebrothes" />
   <title>Icebrothes®</title>
+  <link rel="canonical" href="https://icebrothes.page/detail.html" />
   <script>
     window.getAssetUrl = function (path) {
       const version = document
@@ -41,6 +42,7 @@
         <li><a href="index.html#identity">Búnaður</a></li>
         <li><a href="index.html#kristjan-air">Kristján Air</a></li>
         <li><a href="index.html#events">Viðburðir</a></li>
+        <li><a href="fundir.html">Fundir</a></li>
         <li><a href="index.html#gallery">Myndir</a></li>
       </ul>
     </nav>
@@ -69,18 +71,8 @@
             <h2 class="panel-title">Yfirlit</h2>
             <ul id="detail-facts" class="stat-list"></ul>
           </section>
-
-          <section class="panel">
-            <h2 class="panel-title">Næst</h2>
-            <div id="detail-related" class="related-links"></div>
-          </section>
         </aside>
       </div>
-
-      <section class="panel page-story">
-        <h2 class="panel-title">Nánar</h2>
-        <div id="detail-body" class="page-story-copy"></div>
-      </section>
 
       <section id="detail-gallery-section" class="page-gallery-section">
         <div class="section-heading">
@@ -88,6 +80,16 @@
           <h2 id="detail-gallery-title">Myndir frá viðburðinum</h2>
         </div>
         <div id="detail-gallery" class="detail-gallery"></div>
+      </section>
+
+      <section class="panel page-story">
+        <h2 class="panel-title">Nánar</h2>
+        <div id="detail-body" class="page-story-copy"></div>
+      </section>
+
+      <section class="panel page-next">
+        <h2 class="panel-title">Næst</h2>
+        <div id="detail-related" class="related-links"></div>
       </section>
     </section>
   </main>

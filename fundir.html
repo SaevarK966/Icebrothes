@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="asset-version" content="20260414m" />
+  <meta name="description" content="Fundir Icebrothes, fundargerðir, reglur og sniðmát fyrir formlega fundi crewsins." />
+  <meta name="theme-color" content="#111111" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Icebrothes" />
+  <title>Icebrothes® | Fundir</title>
+  <script>
+    window.getAssetUrl = function (path) {
+      const version = document
+        .querySelector('meta[name="asset-version"]')
+        ?.getAttribute('content');
+      return version ? path + '?v=' + version : path;
+    };
+
+    document.write('<link rel="icon" type="image/png" href="' + window.getAssetUrl('Photos/Logos/Icebrothes_AnniversaryLogo_Orange.png') + '" />');
+    document.write('<link rel="apple-touch-icon" href="' + window.getAssetUrl('Photos/Logos/Icebrothes_AnniversaryLogo_Orange.png') + '" />');
+    document.write('<link rel="manifest" href="' + window.getAssetUrl('site.webmanifest') + '" />');
+    document.write('<link rel="stylesheet" href="' + window.getAssetUrl('style.css') + '" />');
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Sleppa í efni</a>
+
+  <header class="site-header">
+    <nav class="nav container" aria-label="Aðalvalmynd">
+      <a class="brand" href="index.html#home">ICEBROTHES®</a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Opna valmynd">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul id="primary-nav" class="nav-links">
+        <li><a href="index.html#home">Heim</a></li>
+        <li><a href="index.html#about">Um crewið</a></li>
+        <li><a href="index.html#members">Meðlimir</a></li>
+        <li><a href="index.html#identity">Búnaður</a></li>
+        <li><a href="index.html#kristjan-air">Kristján Air</a></li>
+        <li><a href="index.html#events">Viðburðir</a></li>
+        <li><a class="active" href="fundir.html">Fundir</a></li>
+        <li><a href="index.html#gallery">Myndir</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content" class="detail-page">
+    <section class="section container reveal meetings-page-hero">
+      <p class="eyebrow">Fundir</p>
+      <h1>Icebrothes Fundir</h1>
+      <p class="lead">
+        Formlegir fundir Icebrothes fara oft fram eftir events eða á random tímum þegar taka þarf stöðuna,
+        fara yfir næstu skref og skera úr um mál sem eiga ekki að hverfa í casual spjall.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="fundargerd-snidmat.html">Opna sniðmát</a>
+        <a class="btn btn-ghost" href="fundargerd-2026-04-13.html">Sjá dæmi</a>
+      </div>
+    </section>
+
+    <section class="section container reveal">
+      <div class="meeting-archive-grid">
+        <article class="card meeting-rule-card">
+          <p class="identity-label">Kerfi</p>
+          <h3>Hvernig fundirnir virka</h3>
+          <p>Fundir eru teknir þegar event lýkur eða þegar það þarf að ræða stöðu crewsins, næstu viðburði, identity og framtíð Icebrothes.</p>
+          <ul>
+            <li>Farið er yfir síðasta event og hvað gekk vel eða illa</li>
+            <li>Rætt er um næstu viðburði, hugmyndir og ákvarðanir</li>
+            <li>Í lokin getur farið fram rekningarkosning</li>
+          </ul>
+        </article>
+
+        <article class="card meeting-rule-card">
+          <p class="identity-label">Kosning</p>
+          <h3>Rekningarkosning</h3>
+          <p>Hver meðlimur fær eitt atkvæði og getur annaðhvort kosið meðlim eða sagt pass.</p>
+          <ul>
+            <li>Allir sem fá atkvæði á sig eru skráðir formlega í fundargerð</li>
+            <li>Pass telst sem ekkert atkvæði á neinn</li>
+            <li>Ef meðlimur fær meira en 3 atkvæði er hann rekinn úr Icebrothes</li>
+          </ul>
+        </article>
+
+      </div>
+    </section>
+
+    <section class="section container reveal">
+      <div class="section-heading">
+        <p class="eyebrow">Myndir</p>
+        <h2>Myndir frá fundum Icebrothes</h2>
+      </div>
+
+      <div class="gallery-grid meeting-gallery" aria-label="Myndir frá fundum Icebrothes">
+        <figure class="gallery-item meeting-gallery-item">
+          <img src="Meetings/Images/Fundur_i_Motorcycleclub.png" alt="Fundur Icebrothes í Motorcycle Club" />
+          <figcaption>Fundur Icebrothes inni í Motorcycle Club.</figcaption>
+        </figure>
+        <figure class="gallery-item meeting-gallery-item">
+          <img src="Meetings/Images/FundurIcebrothes.jpg" alt="Fundur Icebrothes saman komnir" />
+          <figcaption>Icebrothes saman komnir á formlegum fundi.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section container reveal">
+      <div class="section-heading">
+        <p class="eyebrow">Skjöl</p>
+        <h2>Fundargerðir Icebrothes</h2>
+      </div>
+
+      <div class="meetings-home-actions meetings-archive-actions">
+        <a class="btn btn-ghost" href="fundargerd-snidmat.html">Opna fundargerðarsniðmát</a>
+      </div>
+
+      <div class="meeting-archive-grid meeting-archive-grid-latest">
+        <article class="card meeting-archive-card">
+          <p class="identity-label">Nýjasta</p>
+          <h3>Fundargerð 13. apríl 2026</h3>
+          <p>Dæmi um fullbúna fundargerð með dagskrá, ákvörðunum, kosningu og næsta fundi.</p>
+          <a class="meeting-archive-link" href="fundargerd-2026-04-13.html">Opna fundargerð</a>
+        </article>
+      </div>
+
+      <details class="meeting-archive-toggle">
+        <summary>Sjá allar fundargerðir</summary>
+        <div class="meeting-archive-list">
+          <a class="meeting-archive-row" href="fundargerd-2026-04-13.html">
+            <span class="meeting-archive-date">13. apríl 2026</span>
+            <span class="meeting-archive-name">Fundargerð Icebrothes</span>
+            <span class="meeting-archive-open">Opna</span>
+          </a>
+        </div>
+      </details>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-shell">
+      <div class="footer-hero">
+        <p class="footer-kicker">ICEBROTHES®</p>
+        <h2 class="footer-location">
+          <span>Akureyri, Iceland</span>
+          <span class="footer-location-icons" aria-label="Íslenski fáninn og merki Akureyrar">
+            <img src="Photos/Extra/Flag_of_Iceland.svg" alt="Íslenski fáninn" />
+            <img src="Photos/Extra/Seal_of_Akureyri.png" alt="Merki Akureyrar" />
+          </span>
+        </h2>
+        <p class="footer-copy">
+          Formlegar fundargerðir, archive og skýrara utanumhald um það sem var ákveðið innan Icebrothes.
+        </p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.write('<script src="' + window.getAssetUrl('script.js') + '"><\/script>');
+  </script>
+</body>
+</html>

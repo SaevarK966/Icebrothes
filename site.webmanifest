@@ -1,7 +1,8 @@
 {
   "name": "Icebrothes",
   "short_name": "Icebrothes",
-  "start_url": "./",
+  "start_url": "https://icebrothes.page/",
+  "scope": "https://icebrothes.page/",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
